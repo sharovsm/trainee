@@ -1,0 +1,11 @@
+#h1 {font-weight: 100}
+h3 {font-style: oblique; font-weight: 500;}
+table, tr, th, td {border: 1px solid black; border-collapse: collapse;}
+.tcell {vertical-align: top; text-align: center;};
+.tddays {vertical-align: center; text-align: center;}
+.days {writing-mode: vertical-lr; transform:rotate(180deg)};
+h1, h3 {margin-left: 10px;}
+p {text-align: center;}
+
+
+
